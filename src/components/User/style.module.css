@@ -1,0 +1,43 @@
+.card{
+    border: 10px solid white;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 0 45px -25px rgb(255, 255, 255);
+    transition: .5s;
+}
+
+.img{
+    width: 100%;
+}
+.img img{
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+.card:hover{
+    transition: .5s;
+    transform: scale(1.02);   
+}
+.del{
+    background: #9e3737;
+    color: #fff;
+    padding: 7px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    outline: none;
+    border:none;
+    transition: .5s;
+
+}
+.del:hover{
+    background: #d41111;
+    border-radius: 10px;
+    transition: .5s;
+    transform: scale(1.1);
+}
+.del:active{
+    transform: scale(0.9);
+    transition: 0s;
+
+}
