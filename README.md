@@ -1,3 +1,7 @@
+# Anatolii Chumak React HW 1
+
+Follow link to [Website](https://tolik4umak.github.io/REACT_HW_1/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
